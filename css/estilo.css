@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:linear-gradient(90deg,black,blueviolet );
+}
+
+img{
+   position: absolute;
+   left: 500px;  
+   top: 50px;
+}
+
+#capitulo{
+    color: #fff;
+    position: absolute;
+    top: 370px;
+    left: 540px;
+}
+
+#nome-autor{
+    color: #fff;
+    position: absolute;
+    top: 390px;
+    left: 540px;
+}
+
+.voltar{
+    position: absolute;
+    top: 480px;
+    left: 540px;
+   /* background-color: inherit;*/
+}
+
+.play{
+   margin-top: 480px;
+   margin-left: 590px;
+}
+
+.avancar{
+    position: absolute;
+    top: 480px;
+    left: 631px;
+} 
